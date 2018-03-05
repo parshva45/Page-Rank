@@ -1,0 +1,29 @@
+Total number of pages : 1000
+Number of pages with no in-links : 0
+Proportion of pages with no in-links : 0.0
+Number of pages with no out-links : 0
+Proportion of pages with no out-links : 0.0
+
+Top 10 pages based on number of in-links :
+1) London_Underground : 716
+2) Transport_for_London : 622
+3) International_Standard_Book_Number : 587
+4) National_Rail : 535
+5) Docklands_Light_Railway : 460
+6) Crossrail : 404
+7) Bank_and_Monument_stations : 394
+8) List_of_London_Underground_stations : 382
+9) Finsbury_Park_station : 378
+10) Richmond_(London)_station : 371
+
+Top 10 pages based on PageRank :
+1) DMOZ : 0.06126157566636183
+2) International_Standard_Book_Number : 0.03852643769255488
+3) PubMed_Central : 0.030431028609348917
+4) Digital_object_identifier : 0.018538041240841272
+5) Amazon_Standard_Identification_Number : 0.015233735395143331
+6) European_Union : 0.00744249299636913
+7) London_Underground : 0.007180678218352385
+8) Transport_for_London : 0.00667373020872037
+9) World_War_II : 0.006279523840441177
+10) National_Rail : 0.004225175176291374

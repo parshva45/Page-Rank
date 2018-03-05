@@ -1,0 +1,72 @@
+Comparing Top 10 pages based on number of in-links and PageRank
+when traversed using BFS, the result may be so due to following points:
+
+1) Top 2 pages i.e 'International_Standard_Book_Number' and 
+'Digital_object_identifier' are the same for both results.
+Because, they both have high number of in-links (413 and 330)
+plus they are important too (As both of them
+are linked from 8 out of the top 10 important pages).
+A page becomes important if linked from other important pages.
+
+2) The pages 'International_Standard_Serial_Number' and
+'National_Diet_Library' make it to third position though they do
+not have many number of in-links (not in top 10),
+because they are linked from many other important pages (6/top 10)
+
+3) The pages 'United_States', 'Bibcode' and 'Wayback_Machine' appear
+at 5th, 6th, 7th places because they have links from some important
+pages too plus they also belong to top 10 links according to number
+of in-links (229, 228, 227).
+
+4) The pages 'World_War_II', 'OCLC' and 'Canada' make it to top 10
+but fall back to positions 8th, 9th, 10th respectively as they do not
+have many in-links but are linked from some important pages.
+(4, 3, 4 pages of the top 10 important pages)
+
+5) The page 'Tropical_cyclone', though at position 3 on the basis of
+number of in-links (308), couldn't make it to top 10 pages according to
+PageRank because it is not linked from important pages.
+'Tropical_cyclone' is linked only from 1 link among the top 10
+important pages (just from 'United_States'). Similar is the case
+for the page 'International_Space_Station' (just from 'Canada').
+
+6) The pages 'National_Oceanic_and_Atmospheric_Administration' and
+'Pascal_(unit)' though are in top 10 pages based on number of in-links,
+couldn't make it to top 10 pages based on PageRank as they are not linked
+from any of the important pages.
+
+------------------------------------------------------------------------------
+
+Comparing Top 10 pages based on number of in-links and PageRank
+when traversed using DFS, the result may be so due to following points:
+
+1) The pages 'DMOZ' and 'PubMed_Central' may be important because of linking
+from many other important pages, maybe many from top 50 pages
+(both of them are linked by 3 out of 10 most important pages).
+
+2) The pages 'International_Standard_Book_Number' and 'Digital_object_identifier'
+are linked from 6 out of 10 most important pages, due to which they make up
+to 2nd and 4th positions in the list.
+
+3) All the pages from positions 5 to 10 are linked by 3 out of 10
+most important pages, which helps them to make up to the top 10 list.
+
+4) Pages like 'London_Underground', 'Transport_for_London' and
+'National_Rail' also appear in both - the top 10 pages based on number of
+in-links (716, 622, 535 respectively) and top 10 pages based on PageRank
+(positions 7, 8, 10)
+
+---------------------------------------------------------------------------
+
+Observing the statistics of both G1 and G2, the pages which seem
+most important (basically their intersection) are:
+- 'International_Standard_Book_Number'
+- 'Digital_object_identifier'
+- 'World_War_II'
+
+---------------------------------------------------------------------------
+
+By comparing statistics for both G1 and G2, it can be said that
+BFS crawling approach gives good corpus and the required page
+can be get in most cases, but in case of DFS crawling we cannot ensure
+good corpus. So we can say that BFS crawling gives better result of crawling.

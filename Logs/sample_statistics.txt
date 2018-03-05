@@ -1,0 +1,21 @@
+Total number of pages : 6
+Number of pages with no in-links : 0
+Proportion of pages with no in-links : 0.0
+Number of pages with no out-links : 0
+Proportion of pages with no out-links : 0.0
+
+Top 10 pages based on number of in-links :
+1) E : 4
+2) A : 3
+3) C : 3
+4) F : 3
+5) B : 2
+6) D : 2
+
+Top 10 pages based on PageRank :
+1) A : 0.24956353734648276
+2) E : 0.19093530383953833
+3) C : 0.1497448186929334
+4) F : 0.1497448186929334
+5) B : 0.13805653131430043
+6) D : 0.12195499011381174

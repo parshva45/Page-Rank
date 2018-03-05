@@ -1,0 +1,204 @@
+
+------------------------------------------------------------------------------------------
+Graph : sample
+------------------------------------------------------------------------------------------
+
+Initial perplexity : 6.0
+
+Round 1:
+Perplexity : 5.771114844959283
+Change in Perplexity : 0.22888515504071716
+
+Round 2:
+Perplexity : 5.7336863490707195
+Change in Perplexity : 0.03742849588856334
+
+Round 3:
+Perplexity : 5.842186225607963
+Change in Perplexity : 0.1084998765372438
+
+Round 4:
+Perplexity : 5.819459876704576
+Change in Perplexity : 0.02272634890338754
+
+Graph sample converged after 4 rounds
+
+------------------------------------------------------------------------------------------
+Graph : G1
+------------------------------------------------------------------------------------------
+
+Initial perplexity : 999.9999999999519
+
+Round 1:
+Perplexity : 694.8621594874367
+Change in Perplexity : 305.13784051251525
+
+Round 2:
+Perplexity : 612.9103402481711
+Change in Perplexity : 81.95181923926555
+
+Round 3:
+Perplexity : 559.9776092778752
+Change in Perplexity : 52.93273097029589
+
+Round 4:
+Perplexity : 526.9353215584032
+Change in Perplexity : 33.04228771947203
+
+Round 5:
+Perplexity : 505.4113702597582
+Change in Perplexity : 21.523951298644988
+
+Round 6:
+Perplexity : 491.022822186441
+Change in Perplexity : 14.388548073317224
+
+Round 7:
+Perplexity : 481.27646922289637
+Change in Perplexity : 9.74635296354461
+
+Round 8:
+Perplexity : 474.62456622555504
+Change in Perplexity : 6.651902997341324
+
+Round 9:
+Perplexity : 470.0630592573807
+Change in Perplexity : 4.561506968174342
+
+Round 10:
+Perplexity : 466.9248589948408
+Change in Perplexity : 3.138200262539897
+
+Round 11:
+Perplexity : 464.7605543296494
+Change in Perplexity : 2.1643046651914233
+
+Round 12:
+Perplexity : 463.2648718759698
+Change in Perplexity : 1.495682453679592
+
+Round 13:
+Perplexity : 462.2293541473698
+Change in Perplexity : 1.0355177285999844
+
+Round 14:
+Perplexity : 461.5111521189675
+Change in Perplexity : 0.7182020284022883
+
+Round 15:
+Perplexity : 461.01213132197955
+Change in Perplexity : 0.4990207969879634
+
+Round 16:
+Perplexity : 460.6647476710808
+Change in Perplexity : 0.3473836508987347
+
+Round 17:
+Perplexity : 460.42243936087607
+Change in Perplexity : 0.24230831020474852
+
+Graph G1 converged after 17 rounds
+
+------------------------------------------------------------------------------------------
+Graph : G2
+------------------------------------------------------------------------------------------
+
+Initial perplexity : 999.9999999999519
+
+Round 1:
+Perplexity : 777.7926922919622
+Change in Perplexity : 222.20730770798968
+
+Round 2:
+Perplexity : 729.4578924639743
+Change in Perplexity : 48.33479982798792
+
+Round 3:
+Perplexity : 685.5192264259032
+Change in Perplexity : 43.93866603807112
+
+Round 4:
+Perplexity : 655.1719610687611
+Change in Perplexity : 30.347265357142078
+
+Round 5:
+Perplexity : 632.4011993009968
+Change in Perplexity : 22.77076176776427
+
+Round 6:
+Perplexity : 614.7874996110909
+Change in Perplexity : 17.613699689905957
+
+Round 7:
+Perplexity : 600.815277106357
+Change in Perplexity : 13.97222250473385
+
+Round 8:
+Perplexity : 589.5609617317344
+Change in Perplexity : 11.254315374622593
+
+Round 9:
+Perplexity : 580.4046489869964
+Change in Perplexity : 9.156312744737988
+
+Round 10:
+Perplexity : 572.9071464185638
+Change in Perplexity : 7.497502568432651
+
+Round 11:
+Perplexity : 566.7420404803812
+Change in Perplexity : 6.165105938182592
+
+Round 12:
+Perplexity : 561.6585129720639
+Change in Perplexity : 5.083527508317275
+
+Round 13:
+Perplexity : 557.4591678798903
+Change in Perplexity : 4.199345092173644
+
+Round 14:
+Perplexity : 553.986052296836
+Change in Perplexity : 3.473115583054323
+
+Round 15:
+Perplexity : 551.1113174071024
+Change in Perplexity : 2.8747348897335314
+
+Round 16:
+Perplexity : 548.7306641153605
+Change in Perplexity : 2.3806532917419645
+
+Round 17:
+Perplexity : 546.758546918512
+Change in Perplexity : 1.972117196848444
+
+Round 18:
+Perplexity : 545.1245450100695
+Change in Perplexity : 1.6340019084425421
+
+Round 19:
+Perplexity : 543.7705446244067
+Change in Perplexity : 1.3540003856627436
+
+Round 20:
+Perplexity : 542.6485084763309
+Change in Perplexity : 1.1220361480758356
+
+Round 21:
+Perplexity : 541.718684770442
+Change in Perplexity : 0.9298237058889072
+
+Round 22:
+Perplexity : 540.9481544553662
+Change in Perplexity : 0.7705303150758027
+
+Round 23:
+Perplexity : 540.30964433686
+Change in Perplexity : 0.6385101185062467
+
+Round 24:
+Perplexity : 539.7805525150134
+Change in Perplexity : 0.5290918218465777
+
+Graph G2 converged after 24 rounds
